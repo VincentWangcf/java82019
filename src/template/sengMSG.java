@@ -3,7 +3,7 @@ package template;
 public class sengMSG extends SendCustom
 {
     //add 20190709
-
+  //for test by Vincnet version 01
     @Override
     public void to() {
         System.out.println("Mark");
