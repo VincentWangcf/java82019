@@ -2,6 +2,7 @@ package template;
 
 public class sengMSG extends SendCustom
 {
+    //add 20190709
     @Override
     public void to() {
         System.out.println("Mark");
